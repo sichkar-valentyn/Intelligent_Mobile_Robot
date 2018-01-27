@@ -1,2 +1,5 @@
-# Intelligent_Mobile_Robot
+# Intelligent Mobile Robot
 Movements Control of Mobile Robot
+
+## Description
+Project on its way ...
