@@ -11,5 +11,8 @@ Movements Control of Mobile Robot
 <br/><b>Checking the abilities to overcome obstacles</b>
 <br/>Implementing High Pass Six Wheel Base.
 
+<br/><b>Creating the Mobile Application Arduino-Android</b>
+<br/>Application to control the SWB via phone.
+
 <br/>Project is under construction
 <br/>_on its way ..._
