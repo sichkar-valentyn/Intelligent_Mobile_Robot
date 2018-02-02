@@ -14,5 +14,8 @@ Movements Control of Mobile Robot
 <br/><b>Creating the Mobile Application Arduino-Android</b>
 <br/>Application to control the SWB via phone.
 
+<br/><b>Adding the Ultrasonic sensors</b>
+<br/>Checking the environment around with Ultrasonic sensors.
+
 <br/>Project is under construction
 <br/>_on its way ..._
