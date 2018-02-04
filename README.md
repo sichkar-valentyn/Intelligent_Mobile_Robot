@@ -17,5 +17,8 @@ Movements Control of Mobile Robot
 <br/><b>Adding the Ultrasonic sensors</b>
 <br/>Checking the environment around with Ultrasonic sensors.
 
+<br/><b>Checking the abilities to stop before the collision</b>
+<br/>With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
+
 <br/>Project is under construction
 <br/>_on its way ..._
