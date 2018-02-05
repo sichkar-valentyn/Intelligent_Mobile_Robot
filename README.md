@@ -1,12 +1,17 @@
 # Intelligent Mobile Robot
 Movements Control of Mobile Robot
 
+### Reference to:
+[1] Valentyn N Sichkar. Intelligent Movements Control of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
+
 ## Description
 <b>Introduction</b>
 <br/>Explaining the main goals of the project.
+<br/>https://www.youtube.com/watch?v=srEd8KEh2uo
 
 <br/><b>Connecting DC Motors</b>
 <br/>Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
+<br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
 
 <br/><b>Checking the abilities to overcome obstacles</b>
 <br/>Implementing High Pass Six Wheel Base.
@@ -22,3 +27,9 @@ Movements Control of Mobile Robot
 
 <br/>Project is under construction
 <br/>_on its way ..._
+
+## MIT License
+## Copyright (c) 2017 Valentyn N Sichkar
+## github.com/sichkar-valentyn
+### Reference to:
+[1] Valentyn N Sichkar. Intelligent Movements Control of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
