@@ -1,5 +1,6 @@
 # Intelligent Mobile Robot
-Movements Control of Mobile Robot
+Movements Control of Mobile Robot.
+<br/>Hardware - Arduino Mega, 6 DC Motors, Batteries.
 
 ### Reference to:
 [1] Valentyn N Sichkar. Intelligent Movements Control of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
