@@ -26,6 +26,9 @@ Movements Control of Mobile Robot.
 <br/><b>Checking the abilities to stop before the possible collisions with obstacles</b>
 <br/>With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
 
+<br/><b>Adding the camera</b>
+<br/>Working with computer vision.
+
 <br/>Project is under construction
 <br/>_on its way ..._
 
