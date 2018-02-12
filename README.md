@@ -19,7 +19,7 @@ Movements Control of Mobile Robot.
 ![L298P](images/L298P.jpg)
 
 <br/>The view from the top of Motor Shield L298P.
-![L298P_top_view](images/L298P_top_view.png)
+<br/>![L298P_top_view](images/L298P_top_view.png)
 
 <br/><b>Checking the abilities to overcome obstacles</b>
 <br/>Implementing High Pass Six Wheel Base.
