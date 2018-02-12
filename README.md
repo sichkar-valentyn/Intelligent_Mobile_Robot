@@ -14,6 +14,13 @@ Movements Control of Mobile Robot.
 <br/>Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
 <br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
 
+<br/><b>More about Motor Shield L298P</b>
+<br/>The Motor Shield L298P is shown below on the figure.
+![L298P](images/L298P.jpg)
+
+<br/>The view from the top of Motor Shield L298P.
+![L298P_top_view](images/L298P_top_view.png)
+
 <br/><b>Checking the abilities to overcome obstacles</b>
 <br/>Implementing High Pass Six Wheel Base.
 
