@@ -1,24 +1,27 @@
 # Intelligent Mobile Robot
 Movements Control of Mobile Robot.
-<br/>Hardware - Arduino Mega, 6 DC Motors, Batteries.
+<br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, 6 DC Motors, 6 Ultrasonic Sensors, Bluetooth Module, Batteries.
+<br/><b>Software</b> - C# via Visual Studio, Arduino IDE, Android SDK.
 
 ### Reference to:
 [1] Valentyn N Sichkar. Intelligent Movements Control of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
 
 ## Description
 <b>Introduction</b>
-<br/>Explaining the main goals of the project.
+<br/>Explaining the main goals of the Project.
 <br/>https://www.youtube.com/watch?v=srEd8KEh2uo
+<br>[![Main goals of the Project](https://img.youtube.com/vi/srEd8KEh2uo/0.jpg)](https://www.youtube.com/watch?v=srEd8KEh2uo)
 
 <br/><b>Connecting DC Motors</b>
 <br/>Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
 <br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
+<br>[![Connecting](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
 
 <br/><b>More about Motor Shield L298P</b>
 <br/>The Motor Shield L298P is shown below on the figure.
 ![L298P](images/L298P.jpg)
 
-<br/>The view from the top of Motor Shield L298P.
+<br/>The view from the top of Motor Shield L298P and showing the main connectors that are needed for the Project.
 <br/>![L298P_top_view](images/L298P_top_view.png)
 
 <br/><b>Checking the abilities to overcome obstacles</b>
