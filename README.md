@@ -18,7 +18,7 @@ Movements Control of Mobile Robot.
 <br>[![Connecting](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
 
 <br/><b>More about Motor Shield L298P</b>
-<br/>The Motor Shield L298P is shown below on the figure.
+<br/>General view of the Motor Shield L298P is shown below on the figure.
 ![L298P](images/L298P.jpg)
 
 <br/>The view from the top of Motor Shield L298P and showing the main connectors that are needed for the Project.
