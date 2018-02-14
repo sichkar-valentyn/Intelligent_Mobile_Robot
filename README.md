@@ -25,7 +25,7 @@ Movements Control of Mobile Robot.
 <br/>![L298P_top_view](images/L298P_top_view.png)
 
 <br/>General view of the DC Motor.
-![DC_Motor](images/DC_Motors.png)
+<br/>![DC_Motor](images/DC_Motors.png)
 
 <br/>Connection DC Motors to the Shield.
 <br/>![Connection_DC_Motors](images/DC_Motors_7.png)
