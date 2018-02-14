@@ -30,6 +30,12 @@ Movements Control of Mobile Robot.
 <br/>Connection DC Motors to the Shield.
 <br/>![Connection_DC_Motors](images/DC_Motors_7.png)
 
+<br/>General view of the Bluetooth Module HC-06.
+<br/>![Bluetooth_Module_HC-06](images/DBluetooth_Module_HC-06.jpg)
+
+<br/>Connection Bluetooth Module HC-06 to the Shield or Arduino.
+<br/>![Connection_Bluetooth_Module](images/HC-06_Connectors.jpg)
+
 
 
 <br/><b>Checking the abilities to overcome obstacles</b>
