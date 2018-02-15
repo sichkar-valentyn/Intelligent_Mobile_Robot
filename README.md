@@ -38,6 +38,8 @@ Movements Control of Mobile Robot.
 
 
 
+
+
 <br/><b>Checking the abilities to overcome obstacles</b>
 <br/>Implementing High Pass Six Wheel Base.
 
@@ -46,6 +48,14 @@ Movements Control of Mobile Robot.
 
 <br/><b>Adding the Ultrasonic sensors</b>
 <br/>Checking the environment around with Ultrasonic sensors.
+
+<br/>General view of the Ultrasonic Sensor US-015.
+<br/>![Ultrasonic_Sensor_US-015](images/Ultrasonic_Sensor_US-015.jpg)
+
+<br/>Connection Ultrasonic Sensor US-015 to the Arduino.
+<br/>![Connection_Ultrasonic_Sensor](images/Connection_Ultrasonic_Sensor.jpg)
+
+
 
 <br/><b>Checking the abilities to stop before the possible collisions with obstacles</b>
 <br/>With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
