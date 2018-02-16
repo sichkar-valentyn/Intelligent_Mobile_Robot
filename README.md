@@ -8,17 +8,17 @@ Movements Control of Mobile Robot.
 
 ## Description
 ### Introduction
-<br/>Explaining the main goals of the Project.
+Explaining the main goals of the Project.
 <br/>https://www.youtube.com/watch?v=srEd8KEh2uo
 <br>[![Main goals of the Project](https://img.youtube.com/vi/srEd8KEh2uo/0.jpg)](https://www.youtube.com/watch?v=srEd8KEh2uo)
 
 ### Connecting DC Motors
-<br/>Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
+Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
 <br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
 <br>[![Connecting](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
 
 ### More information about equipment
-<br/>General view of the Motor Shield L298P is shown below on the figure.
+General view of the Motor Shield L298P is shown below on the figure.
 ![L298P](images/L298P.jpg)
 
 <br/>The view from the top of Motor Shield L298P and showing the main connectors that are needed for the Project.
@@ -45,13 +45,13 @@ Movements Control of Mobile Robot.
 
 
 ### Checking the abilities to overcome obstacles
-<br/>Implementing High Pass Six Wheel Base.
+Implementing High Pass Six Wheel Base.
 
 ### Creating the Mobile Application Arduino-Android
-<br/>Application to control the SWB via phone.
+Application to control the SWB via phone.
 
 ### Adding the Ultrasonic sensors
-<br/>Checking the environment around with Ultrasonic sensors.
+Checking the environment around with Ultrasonic sensors.
 
 <br/>General view of the Ultrasonic Sensor US-015.
 <br/>![Ultrasonic_Sensor_US-015](images/Ultrasonic_Sensor_US-015.jpg)
@@ -62,10 +62,10 @@ Movements Control of Mobile Robot.
 
 
 ### Checking the abilities to stop before the possible collisions with obstacles
-<br/>With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
+With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
 
 ### Adding the camera
-<br/>Working with computer vision.
+Working with computer vision.
 
 <br/>Project is under construction
 <br/>_on its way ..._
