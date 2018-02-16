@@ -7,18 +7,18 @@ Movements Control of Mobile Robot.
 [1] Valentyn N Sichkar. Intelligent Movements Control of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
 
 ## Description
-<b>Introduction</b>
-<br/>Explaining the main goals of the Project.
+### Introduction
+Explaining the main goals of the Project.
 <br/>https://www.youtube.com/watch?v=srEd8KEh2uo
 <br>[![Main goals of the Project](https://img.youtube.com/vi/srEd8KEh2uo/0.jpg)](https://www.youtube.com/watch?v=srEd8KEh2uo)
 
-<br/><b>Connecting DC Motors</b>
-<br/>Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
+### Connecting DC Motors
+Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
 <br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
 <br>[![Connecting](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
 
-<br/><b>More information about equipment</b>
-<br/>General view of the Motor Shield L298P is shown below on the figure.
+### More information about equipment
+General view of the Motor Shield L298P is shown below on the figure.
 ![L298P](images/L298P.jpg)
 
 <br/>The view from the top of Motor Shield L298P and showing the main connectors that are needed for the Project.
@@ -36,18 +36,22 @@ Movements Control of Mobile Robot.
 <br/>Connection Bluetooth Module HC-06 to the Shield or Arduino.
 <br/>![Connection_Bluetooth_Module](images/HC-06_Connectors.jpg)
 
+<br/>More about equipment.
+<br/>https://www.youtube.com/watch?v=6KQcZUehVFo
+<br>[![Connecting](https://img.youtube.com/vi/6KQcZUehVFo/0.jpg)](https://www.youtube.com/watch?v=6KQcZUehVFo)
 
 
 
 
-<br/><b>Checking the abilities to overcome obstacles</b>
-<br/>Implementing High Pass Six Wheel Base.
 
-<br/><b>Creating the Mobile Application Arduino-Android</b>
-<br/>Application to control the SWB via phone.
+### Checking the abilities to overcome obstacles
+Implementing High Pass Six Wheel Base.
 
-<br/><b>Adding the Ultrasonic sensors</b>
-<br/>Checking the environment around with Ultrasonic sensors.
+### Creating the Mobile Application Arduino-Android
+Application to control the SWB via phone.
+
+### Adding the Ultrasonic sensors
+Checking the environment around with Ultrasonic sensors.
 
 <br/>General view of the Ultrasonic Sensor US-015.
 <br/>![Ultrasonic_Sensor_US-015](images/Ultrasonic_Sensor_US-015.jpg)
@@ -57,11 +61,11 @@ Movements Control of Mobile Robot.
 
 
 
-<br/><b>Checking the abilities to stop before the possible collisions with obstacles</b>
-<br/>With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
+### Checking the abilities to stop before the possible collisions with obstacles
+With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
 
-<br/><b>Adding the camera</b>
-<br/>Working with computer vision.
+### Adding the camera
+Working with computer vision.
 
 <br/>Project is under construction
 <br/>_on its way ..._
