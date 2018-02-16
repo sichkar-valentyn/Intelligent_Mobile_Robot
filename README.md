@@ -7,17 +7,17 @@ Movements Control of Mobile Robot.
 [1] Valentyn N Sichkar. Intelligent Movements Control of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
 
 ## Description
-<b>Introduction</b>
+### Introduction
 <br/>Explaining the main goals of the Project.
 <br/>https://www.youtube.com/watch?v=srEd8KEh2uo
 <br>[![Main goals of the Project](https://img.youtube.com/vi/srEd8KEh2uo/0.jpg)](https://www.youtube.com/watch?v=srEd8KEh2uo)
 
-<br/><b>Connecting DC Motors</b>
+### Connecting DC Motors
 <br/>Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
 <br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
 <br>[![Connecting](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
 
-<br/><b>More information about equipment</b>
+### More information about equipment
 <br/>General view of the Motor Shield L298P is shown below on the figure.
 ![L298P](images/L298P.jpg)
 
@@ -36,17 +36,21 @@ Movements Control of Mobile Robot.
 <br/>Connection Bluetooth Module HC-06 to the Shield or Arduino.
 <br/>![Connection_Bluetooth_Module](images/HC-06_Connectors.jpg)
 
+<br/>More about equipment.
+<br/>https://www.youtube.com/watch?v=6KQcZUehVFo
+<br>[![Connecting](https://img.youtube.com/vi/6KQcZUehVFo/0.jpg)](https://www.youtube.com/watch?v=6KQcZUehVFo)
 
 
 
 
-<br/><b>Checking the abilities to overcome obstacles</b>
+
+### Checking the abilities to overcome obstacles
 <br/>Implementing High Pass Six Wheel Base.
 
-<br/><b>Creating the Mobile Application Arduino-Android</b>
+### Creating the Mobile Application Arduino-Android
 <br/>Application to control the SWB via phone.
 
-<br/><b>Adding the Ultrasonic sensors</b>
+### Adding the Ultrasonic sensors
 <br/>Checking the environment around with Ultrasonic sensors.
 
 <br/>General view of the Ultrasonic Sensor US-015.
@@ -57,10 +61,10 @@ Movements Control of Mobile Robot.
 
 
 
-<br/><b>Checking the abilities to stop before the possible collisions with obstacles</b>
+### Checking the abilities to stop before the possible collisions with obstacles
 <br/>With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
 
-<br/><b>Adding the camera</b>
+### Adding the camera
 <br/>Working with computer vision.
 
 <br/>Project is under construction
