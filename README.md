@@ -49,7 +49,7 @@ Checking the environment around with Ultrasonic sensors.
 <br/>SWB with Ultrasonic Sensors - Back
 ![Back](images/SWB_with_Ultrasonic_Sensors_Back.jpg)
 
-<br/>SWB with Ultrasonic Sensors - Front
+<br/>SWB with Ultrasonic Sensors - Side
 ![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
 
 
