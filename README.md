@@ -41,6 +41,16 @@ General view of the Motor Shield L298P is shown below on the figure.
 <br>[![Connecting](https://img.youtube.com/vi/6KQcZUehVFo/0.jpg)](https://www.youtube.com/watch?v=6KQcZUehVFo)
 
 
+### Adding the Ultrasonic sensors
+Checking the environment around with Ultrasonic sensors.
+<br/>SWB with Ultrasonic Sensors - Front
+![Front](images/SWB_with_Ultrasonic_Sensors_Front.jpg)
+
+<br/>SWB with Ultrasonic Sensors - Back
+![Back](images/SWB_with_Ultrasonic_Sensors_Back.jpg)
+
+<br/>SWB with Ultrasonic Sensors - Front
+![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
 
 
 
@@ -50,8 +60,7 @@ Implementing High Pass Six Wheel Base.
 ### Creating the Mobile Application Arduino-Android
 Application to control the SWB via phone.
 
-### Adding the Ultrasonic sensors
-Checking the environment around with Ultrasonic sensors.
+
 
 <br/>General view of the Ultrasonic Sensor US-015.
 <br/>![Ultrasonic_Sensor_US-015](images/Ultrasonic_Sensor_US-015.jpg)
