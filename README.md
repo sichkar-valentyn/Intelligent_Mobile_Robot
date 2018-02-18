@@ -13,7 +13,7 @@ Explaining the main goals of the Project.
 <br>[![Main goals of the Project](https://img.youtube.com/vi/srEd8KEh2uo/0.jpg)](https://www.youtube.com/watch?v=srEd8KEh2uo)
 
 ### Connecting DC Motors
-Connecting and checking the Six Wheel Base (SWB) for simple commands to move.
+Connecting and checking the High Pass Six Wheel Base - HPSWB - for simple commands to move.
 <br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
 <br>[![Connecting](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
 
@@ -43,13 +43,13 @@ General view of the Motor Shield L298P is shown below on the figure.
 
 ### Adding the Ultrasonic sensors
 Checking the environment around with Ultrasonic sensors.
-<br/>SWB with Ultrasonic Sensors - Front
+<br/>HPSWB with Ultrasonic Sensors - view at the front
 ![Front](images/SWB_with_Ultrasonic_Sensors_Front.jpg)
 
-<br/>SWB with Ultrasonic Sensors - Back
+<br/>HPSWB with Ultrasonic Sensors - view from the back
 ![Back](images/SWB_with_Ultrasonic_Sensors_Back.jpg)
 
-<br/>SWB with Ultrasonic Sensors - Side
+<br/>HPSWB with Ultrasonic Sensors - view from side
 ![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
 
 
