@@ -42,15 +42,21 @@ General view of the Motor Shield L298P is shown below on the figure.
 
 
 ### Adding the Ultrasonic sensors
-Checking the environment around with Ultrasonic sensors.
-<br/>HPSWB with Ultrasonic Sensors - view at the front
+Checking the environment around with Ultrasonic Sensors.
+<br/>HPSWB with Ultrasonic Sensors - view from the front
 ![Front](images/SWB_with_Ultrasonic_Sensors_Front.jpg)
 
 <br/>HPSWB with Ultrasonic Sensors - view from the back
 ![Back](images/SWB_with_Ultrasonic_Sensors_Back.jpg)
 
-<br/>HPSWB with Ultrasonic Sensors - view from side
+<br/>HPSWB with Ultrasonic Sensors - view from one side
 ![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
+
+<br/>General view of the Ultrasonic Sensor US-015.
+<br/>![Ultrasonic_Sensor_US-015](images/Ultrasonic_Sensor_US-015.jpg)
+
+<br/>Connection Ultrasonic Sensor US-015 to the Arduino.
+<br/>![Connection_Ultrasonic_Sensor](images/Connection_Ultrasonic_Sensor.jpg)
 
 
 
@@ -62,11 +68,7 @@ Application to control the SWB via phone.
 
 
 
-<br/>General view of the Ultrasonic Sensor US-015.
-<br/>![Ultrasonic_Sensor_US-015](images/Ultrasonic_Sensor_US-015.jpg)
 
-<br/>Connection Ultrasonic Sensor US-015 to the Arduino.
-<br/>![Connection_Ultrasonic_Sensor](images/Connection_Ultrasonic_Sensor.jpg)
 
 
 
