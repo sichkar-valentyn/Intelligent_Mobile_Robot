@@ -58,22 +58,14 @@ Checking the environment around with Ultrasonic Sensors.
 <br/>Connection Ultrasonic Sensor US-015 to the Arduino.
 <br/>![Connection_Ultrasonic_Sensor](images/Connection_Ultrasonic_Sensor.jpg)
 
-
+### Checking the abilities to stop before the possible collisions with obstacles
+With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
 
 ### Checking the abilities to overcome obstacles
 Implementing High Pass Six Wheel Base.
 
 ### Creating the Mobile Application Arduino-Android
 Application to control the SWB via phone.
-
-
-
-
-
-
-
-### Checking the abilities to stop before the possible collisions with obstacles
-With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
 
 ### Adding the camera
 Working with computer vision.
