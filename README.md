@@ -62,10 +62,10 @@ Checking the environment around with Ultrasonic Sensors.
 With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions.
 
 ### Checking the abilities to overcome obstacles
-Implementing High Pass Six Wheel Base.
+Implementing HPSWB.
 
 ### Creating the Mobile Application Arduino-Android
-Application to control the SWB via phone.
+Application to control the HPSWB via phone.
 
 ### Adding the camera
 Working with computer vision.
