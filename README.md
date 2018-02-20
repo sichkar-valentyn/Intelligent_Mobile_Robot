@@ -43,10 +43,10 @@ General view of the Motor Shield L298P is shown below on the figure
 <br/>General view of the Ultrasonic Sensor US-015
 <br/>![Ultrasonic_Sensor_US-015](images/General_View_of_US-015.jpg)
 
-<br/>Connection Ultrasonic Sensor US-015 to the Arduino
+<br/>Connection Ultrasonic Sensor US-015 (or HC-SR04) to the Arduino
 <br/>![Connection_Ultrasonic_Sensor](images/Connection_of_Ultrasonic_Sensor.png)
 
-<br/>Equasions for Ultrasonic Sensor
+<br/>Equasions for Ultrasonic Sensors
 <br/>![Equasions_for_Ultrasonic_Sensor](images/Equasions_for_Ultrasonic_Sensor.png)
 
 
