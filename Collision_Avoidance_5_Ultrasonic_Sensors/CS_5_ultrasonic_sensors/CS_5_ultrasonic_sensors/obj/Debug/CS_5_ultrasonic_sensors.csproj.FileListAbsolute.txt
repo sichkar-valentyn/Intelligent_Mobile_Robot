@@ -1,0 +1,51 @@
+c:\users\valentyn\documents\visual studio 2015\Projects\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\CS_5_ultrasonic_sensors.exe.config
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\CS_5_ultrasonic_sensors.exe.config
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\CS_5_ultrasonic_sensors.exe
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\CS_5_ultrasonic_sensors.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Core.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Data.Virtuoso.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.IO.Core.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.IO.Json.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Query.FullText.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Sparql.Core.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\HtmlAgilityPack.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\Lucene.Net.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\Newtonsoft.Json.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\OpenLink.Data.Virtuoso.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\VDS.Common.dll
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.xml
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Core.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Core.xml
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Data.Virtuoso.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Data.Virtuoso.xml
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.IO.Core.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.IO.Core.xml
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.IO.Json.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.IO.Json.xml
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Query.FullText.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Query.FullText.xml
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Sparql.Core.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\dotNetRDF.Sparql.Core.xml
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.csprojResolveAssemblyReference.cache
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.csproj.CS_5_ultrasonic_sensors.exe.config
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.Form1.resources
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.Properties.Resources.resources
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.csproj.GenerateResource.Cache
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.exe
+d:\Plan Life\Higher Education\Universities\SPbSTU\Master thesis new\Software Implementation\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.pdb
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\CS_5_ultrasonic_sensors.exe.config
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\CS_5_ultrasonic_sensors.exe
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\CS_5_ultrasonic_sensors.pdb
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\HtmlAgilityPack.dll
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\Lucene.Net.dll
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\Newtonsoft.Json.dll
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\OpenLink.Data.Virtuoso.dll
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\bin\Debug\VDS.Common.dll
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.csprojResolveAssemblyReference.cache
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.Form1.resources
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.Properties.Resources.resources
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.csproj.GenerateResource.Cache
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.exe
+d:\Plan Life\Higher Education\Projects for SWB\CS_5_ultrasonic_sensors\CS_5_ultrasonic_sensors\obj\Debug\CS_5_ultrasonic_sensors.pdb
