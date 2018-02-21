@@ -1,3 +1,15 @@
+// File: sketch_mobile_robot_5_sensors.ino
+// Description: Intelligent Mobile Robot - Collision Avoidance
+// Environment: Arduino IDE
+//
+// MIT License
+// Copyright (c) 2018 Valentyn N Sichkar
+// github.com/sichkar-valentyn
+// Reference to:
+// [1] Valentyn N Sichkar. Intelligent Mobile Robot - Collision Avoidance // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
+
+
+
 // Variables for Trig and Echo of Ultrasonic Sensors
 int trigPin_1 = 17;
 int echoPin_1 = 16;
