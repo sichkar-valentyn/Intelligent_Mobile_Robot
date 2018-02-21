@@ -49,7 +49,6 @@ General view of the Motor Shield L298P is shown below on the figure
 <br/>Equasions for Ultrasonic Sensors, explaining how they work
 <br/>![Equasions_for_Ultrasonic_Sensor](images/Equasions_for_Ultrasonic_Sensor.png)
 
-
 ### Adding FIVE Ultrasonic sensors US-015
 Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from the front
@@ -61,10 +60,11 @@ Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from one side
 ![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
 
-
-
 ### Checking the abilities to stop before the possible collisions with obstacles
 With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions
+<br/>https://www.youtube.com/watch?v=QVCCuo-QOwA
+<br>[![Main goals of the Project](https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg)](https://www.youtube.com/watch?v=QVCCuo-QOwA)
+
 
 ### Checking the abilities to overcome obstacles
 Implementing HPSWB
