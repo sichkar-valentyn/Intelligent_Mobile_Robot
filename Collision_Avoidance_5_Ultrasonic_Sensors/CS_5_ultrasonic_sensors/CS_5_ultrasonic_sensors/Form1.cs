@@ -1,4 +1,14 @@
-﻿//Namespaces
+// File: Form1.cs
+// Description: Intelligent Mobile Robot - Collision Avoidance
+// Environment: Visual Studio 2015, C#
+//
+// MIT License
+// Copyright (c) 2018 Valentyn N Sichkar
+// github.com/sichkar-valentyn
+// Reference to:
+// [1] Valentyn N Sichkar. Intelligent Mobile Robot - Collision Avoidance // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
+
+//Namespaces
 using System;
 using System.Collections.Generic;
 using System.Drawing;
