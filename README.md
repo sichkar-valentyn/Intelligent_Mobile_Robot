@@ -61,7 +61,7 @@ Checking the environment around with Ultrasonic Sensors US-015
 ![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
 
 ### Checking the abilities to stop before the possible collisions with obstacles
-With the help of Ultrasonic sensors and seeing the obstacles to avoid the collisions
+With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collisions
 <br/>https://www.youtube.com/watch?v=QVCCuo-QOwA
 <br>[![Main goals of the Project](https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg)](https://www.youtube.com/watch?v=QVCCuo-QOwA)
 
