@@ -65,6 +65,12 @@ With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collis
 <br/>https://www.youtube.com/watch?v=QVCCuo-QOwA
 <br>[![Main goals of the Project](https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg)](https://www.youtube.com/watch?v=QVCCuo-QOwA)
 
+### Adding TEN Ultrasonic sensors HC-SR04
+Checking the environment around with Ten Ultrasonic Sensors HC-SR04
+<br/>HPSWB - view from the front
+![Front](images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg)
+
+
 
 ### Checking the abilities to overcome obstacles
 Implementing HPSWB
