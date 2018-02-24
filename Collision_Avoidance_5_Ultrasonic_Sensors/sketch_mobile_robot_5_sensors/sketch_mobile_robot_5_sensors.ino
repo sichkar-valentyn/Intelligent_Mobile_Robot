@@ -6,7 +6,7 @@
 // Copyright (c) 2018 Valentyn N Sichkar
 // github.com/sichkar-valentyn
 // Reference to:
-// [1] Valentyn N Sichkar. Intelligent Mobile Robot - Collision Avoidance // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
+// [1] Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
 
 
 
