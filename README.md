@@ -78,6 +78,9 @@ Implementing HPSWB
 ### Creating the Mobile Application Arduino-Android
 Application to control the HPSWB via phone
 
+### Adding Laser Sensors
+Another type of sensors to check the environment
+
 ### Adding the camera
 Working with computer vision
 
