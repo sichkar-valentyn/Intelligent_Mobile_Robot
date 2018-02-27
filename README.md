@@ -70,10 +70,11 @@ Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 <br/>HPSWB - view from the front
 ![Front](images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg)
 
-
-
 ### Checking the abilities to overcome obstacles
 Implementing HPSWB
+
+### Adding gyroscope
+Adding gyroscope in order to rotate HPSWB to a needed degree
 
 ### Creating the Mobile Application Arduino-Android
 Application to control the HPSWB via phone
