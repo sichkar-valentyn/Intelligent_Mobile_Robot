@@ -71,10 +71,10 @@ Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 ![Front](images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg)
 
 ### Checking the abilities to overcome obstacles
-Implementing HPSWB
+Implementing and testing Algorithms for HPSWB
 
-### Adding gyroscope
-Adding gyroscope in order to rotate HPSWB to a needed degree
+### Adding Gyroscope
+Adding Gyroscope in order to rotate HPSWB to a needed degree
 
 ### Creating the Mobile Application Arduino-Android
 Application to control the HPSWB via phone
@@ -82,7 +82,7 @@ Application to control the HPSWB via phone
 ### Adding Laser Sensors
 Another type of sensors to check the environment
 
-### Adding the camera
+### Adding Camera
 Working with computer vision
 
 <br/>Project is under construction
