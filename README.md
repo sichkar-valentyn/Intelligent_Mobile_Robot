@@ -82,8 +82,20 @@ Application to control the HPSWB via phone
 ### Adding Laser Sensors
 Another type of sensors to check the environment
 
+### Adding Lidar
+Checking the environment with Lidar
+
 ### Adding Camera
 Working with computer vision
+
+### Implementing Algorithms for Obstacle Overcoming
+Working with Algorithms
+
+### Implementing Machine Learning
+Working with Machine Learning
+
+### Implementing Neuro Networks
+Working with Neuro Networks
 
 <br/>Project is under construction
 <br/>_on its way ..._
