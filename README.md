@@ -101,7 +101,7 @@ Working with Neuro Networks
 <br/>_on its way ..._
 
 ## MIT License
-## Copyright (c) 2017 Valentyn N Sichkar
+## Copyright (c) 2017-2018 Valentyn N Sichkar
 ## github.com/sichkar-valentyn
 ### Reference to:
 [1] Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
