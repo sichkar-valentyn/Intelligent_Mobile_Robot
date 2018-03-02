@@ -1,6 +1,6 @@
 # Intelligent Mobile Robot
 Navigation System of Mobile Robot
-<br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, DC Motors, Ultrasonic Sensors, Bluetooth Module, Batteries.
+<br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, DC Motors, Ultrasonic Sensors, Laser Sensors, Cameras, Lidar Sensor, Bluetooth Module, Batteries.
 <br/><b>Software</b> - C# via Visual Studio, Python, Arduino IDE, Android SDK.
 
 ### Reference to:
