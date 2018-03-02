@@ -70,6 +70,9 @@ Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 <br/>HPSWB - view from the front
 ![Front](images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg)
 
+### Connecting two Arduino Mega together
+The way how to connect Master and Slave Arduino Mega together through Serial Port
+
 ### Checking the abilities to overcome obstacles
 Implementing and testing Algorithms for HPSWB
 
