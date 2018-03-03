@@ -1,5 +1,5 @@
 # Intelligent Mobile Robot
-Navigation System of Mobile Robot
+Intelligent Navigation System of Mobile Robot
 <br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, DC Motors, Ultrasonic Sensors, Laser Sensors, Cameras, Lidar Sensor, Bluetooth Module, Batteries.
 <br/><b>Software</b> - C# via Visual Studio, Python, Arduino IDE, Android SDK.
 
@@ -89,7 +89,7 @@ Another type of sensors to check the environment
 Checking the environment with Lidar
 
 ### Adding Camera
-Working with computer vision
+Working with Computer Vision
 
 ### Implementing Algorithms for Obstacle Overcoming
 Working with Algorithms
