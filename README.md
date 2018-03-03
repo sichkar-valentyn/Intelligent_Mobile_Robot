@@ -72,6 +72,7 @@ Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 
 ### Connecting two Arduino Mega together
 The way how to connect Master and Slave Arduino Mega together through Serial Port
+<br/>![Two_Arduino_Mega](images/2ArduinoMega2560.png)
 
 ### Checking the abilities to overcome obstacles
 Implementing and testing Algorithms for HPSWB
