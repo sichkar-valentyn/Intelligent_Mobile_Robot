@@ -76,6 +76,8 @@ The way how to connect Master and Slave Arduino Mega together through Serial Por
 
 ### Checking the abilities to overcome obstacles
 Implementing and testing Algorithms for HPSWB
+<br/>https://www.youtube.com/watch?v=rjMo-d7WrMY
+<br>[![Overcoming_Obstacle](https://img.youtube.com/vi/rjMo-d7WrMY/0.jpg)](https://www.youtube.com/watch?v=rjMo-d7WrMY)
 
 ### Adding Gyroscope
 Adding Gyroscope in order to rotate HPSWB to a needed degree
