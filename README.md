@@ -1,7 +1,7 @@
 # Intelligent Mobile Robot
 Intelligent Navigation System of Mobile Robot
 <br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, DC Motors, Ultrasonic Sensors, Laser Sensors, Cameras, Lidar Sensor, Bluetooth Module, Batteries.
-<br/><b>Software</b> - C# via Visual Studio, Python, Arduino IDE, Android SDK.
+<br/><b>Software</b> - C# via Visual Studio, Python, Arduino IDE, Android SDK, Matlab.
 
 ### Reference to:
 [1] Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
@@ -78,6 +78,9 @@ The way how to connect Master and Slave Arduino Mega together through Serial Por
 Implementing and testing Algorithms for HPSWB
 <br/>https://www.youtube.com/watch?v=rjMo-d7WrMY
 <br>[![Overcoming_Obstacle](https://img.youtube.com/vi/rjMo-d7WrMY/0.jpg)](https://www.youtube.com/watch?v=rjMo-d7WrMY)
+
+### Creating program in Matlab
+Using Matlab to build the map with the information from Ultrasonic Sensors
 
 ### Adding Gyroscope
 Adding Gyroscope in order to rotate HPSWB to a needed degree
