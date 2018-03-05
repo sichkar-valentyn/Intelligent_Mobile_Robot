@@ -38,7 +38,7 @@ General view of the Motor Shield L298P is shown below on the figure
 
 <br/>More about equipment
 <br/>https://www.youtube.com/watch?v=6KQcZUehVFo
-<br>[![Connecting](https://img.youtube.com/vi/6KQcZUehVFo/0.jpg)](https://www.youtube.com/watch?v=6KQcZUehVFo)
+<br>[![Equipment](https://img.youtube.com/vi/6KQcZUehVFo/0.jpg)](https://www.youtube.com/watch?v=6KQcZUehVFo)
 
 <br/>General view of the Ultrasonic Sensor US-015
 <br/>![Ultrasonic_Sensor_US-015](images/General_View_of_US-015.jpg)
@@ -63,7 +63,7 @@ Checking the environment around with Ultrasonic Sensors US-015
 ### Checking the abilities to stop before the possible collisions with obstacles
 With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collisions
 <br/>https://www.youtube.com/watch?v=QVCCuo-QOwA
-<br>[![Main goals of the Project](https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg)](https://www.youtube.com/watch?v=QVCCuo-QOwA)
+<br>[![Avoid_Collision](https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg)](https://www.youtube.com/watch?v=QVCCuo-QOwA)
 
 ### Adding TEN Ultrasonic sensors HC-SR04
 Checking the environment around with Ten Ultrasonic Sensors HC-SR04
