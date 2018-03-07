@@ -83,7 +83,7 @@ Implementing and testing Algorithms for HPSWB
 Using Matlab to build the map with the information from Ultrasonic Sensors
 
 ### Adding Gyroscope
-Adding Gyroscope in order to rotate HPSWB to a needed degree
+Adding Gyroscope in order to rotate HPSWB precisely to a needed degree regardless of battery charge
 
 ### Creating the Mobile Application Arduino-Android
 Application to control the HPSWB via phone
