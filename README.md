@@ -91,8 +91,8 @@ Application to control the HPSWB via phone
 ### Adding Laser Sensors
 Another type of sensors to check the environment
 
-### Adding Lidar
-Checking the environment with Lidar
+### Adding Lidar Sensor
+Checking the environment with Lidar Sensor
 
 ### Adding Camera
 Working with Computer Vision
