@@ -60,6 +60,12 @@ Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from one side
 ![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
 
+### Figure below shows the results of working system in Real Time by SPARQL Querying of the KB
+![SPARQL_Querying](images/SPARQL_Querying_of_KB.png)
+
+### This figure shows the results of Neural Network Knowledge Base
+![NNKB](images/Results_of_the_Neural_Network.png)
+
 ### Checking the abilities to stop before the possible collisions with obstacles
 With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collisions
 <br/>https://www.youtube.com/watch?v=QVCCuo-QOwA
