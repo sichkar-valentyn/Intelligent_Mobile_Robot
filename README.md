@@ -60,7 +60,7 @@ Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from one side
 ![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
 
-### Figure below shows the results of working system in Real Time by SPARQL Querying of the KB
+### Figure below shows the results of working system in Real Time by SPARQL Querying of the Knowledge Base
 ![SPARQL_Querying](images/SPARQL_Querying_of_KB.png)
 
 ### This figure shows the results of Neural Network Knowledge Base
