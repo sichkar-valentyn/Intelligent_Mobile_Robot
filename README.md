@@ -112,7 +112,7 @@ Working with Machine Learning
 ### Implementing Neuro Networks
 Working with Neuro Networks
 
-<br/>Project is under construction
+<br/>Project is under construction, coming soon
 <br/>_on its way ..._
 
 ## MIT License
