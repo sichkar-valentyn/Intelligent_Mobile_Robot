@@ -2,7 +2,7 @@
 Intelligent Navigation System of Mobile Robot
 <br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, DC Motors, Ultrasonic Sensors, Gyroscope, Laser Sensors, Cameras, Lidar Sensor, Bluetooth Module, Batteries, Six Wheel High Pass Base with Active Suspension.
 <br/><b>Software</b> - C# via Visual Studio, Python, Arduino IDE, Android SDK, Matlab.
-<br/><b>Develop</b> - Algorithms for Overcoming Obstacles, Algorithms for Localization, Algorithms for Mapping.
+<br/><b>Develop</b> - Algorithms for Overcoming Obstacles, Algorithms for Localization, Algorithms for Mapping, SLAM Algorithms.
 
 ### Reference to:
 [1] Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
