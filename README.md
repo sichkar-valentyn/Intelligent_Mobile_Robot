@@ -96,7 +96,7 @@ Using Matlab to build the Map around the Mobile Robot with the information from 
 Application to control the HPSWB via phone
 
 ### Adding Laser Sensors
-Another type of sensors to check the environment
+Another type of Sensors to check the environment
 
 ### Adding Lidar Sensor
 Checking the environment with Lidar Sensor
