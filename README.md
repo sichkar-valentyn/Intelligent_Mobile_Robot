@@ -16,7 +16,7 @@ Explaining the main goals of the Project
 ### Connecting DC Motors
 Connecting and checking the High Pass Six Wheel Base - HPSWB - for simple commands to move
 <br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
-<br>[![Connecting](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
+<br>[![Connecting_DC_Motors](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
 
 ### More information about equipment
 General view of the Motor Shield L298P is shown below on the figure
