@@ -114,7 +114,7 @@ Working with Machine Learning
 Working with Neuro Networks
 
 <br/>Project is under construction, coming soon 
-<br/>_on its way ..._
+<br/>_on its way ... _
 
 ## MIT License
 ## Copyright (c) 2017-2018 Valentyn N Sichkar
