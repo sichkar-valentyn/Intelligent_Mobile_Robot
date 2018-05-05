@@ -88,30 +88,39 @@ Implementing and testing Algorithms for HPSWB
 
 ### Adding Gyroscope
 Adding Gyroscope in order to rotate HPSWB precisely to a needed degree regardless of battery charge
+_Soon_
 
 ### Creating program in Matlab
 Using Matlab to build the Map around the Mobile Robot with the information from Ultrasonic Sensors
+_Soon_
 
 ### Creating the Mobile Application Arduino-Android
 Application to control the HPSWB via phone
+_Soon_
 
 ### Adding Laser Sensors
 Another type of Sensors to check the environment
+_Soon_
 
 ### Adding Lidar Sensor
 Checking the environment with Lidar Sensor
+_Soon_
 
 ### Adding Camera
 Working with Computer Vision
+_Soon_
 
 ### Implementing Algorithms for Obstacle Overcoming
 Working with Algorithms
+_Soon_
 
 ### Implementing Machine Learning
 Working with Machine Learning
+_Soon_
 
 ### Implementing Neuro Networks
 Working with Neuro Networks
+_Soon_
 
 
 ## MIT License
