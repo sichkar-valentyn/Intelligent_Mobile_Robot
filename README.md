@@ -1,5 +1,5 @@
 # Intelligent Mobile Robot
-Intelligent Navigation System of Mobile Robot
+Intelligent Navigation System of Mobile Robot.
 <br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, DC Motors, Ultrasonic Sensors, Gyroscope, Laser Sensors, Cameras, Lidar Sensor, Bluetooth Module, Batteries, Six Wheel High Pass Base with Active Suspension.
 <br/><b>Software</b> - C# via Visual Studio, Python, Arduino IDE, Android SDK, Matlab.
 <br/><b>Develop</b> - Algorithms for Overcoming Obstacles, Algorithms for Localization, Algorithms for Mapping, SLAM Algorithms.
@@ -121,7 +121,6 @@ _Soon_
 ### Implementing Neuro Networks
 Working with Neuro Networks
 _Soon_
-
 
 ## MIT License
 ## Copyright (c) 2017-2018 Valentyn N Sichkar
