@@ -17,18 +17,28 @@ The study of Semantic Representation of knowledge and querying of it through owl
 
 ## Content
 * <a href="#Introduction">Introduction</a>
+* <a href="#Connecting DC Motors">Connecting DC Motors</a>
+* <a href="#More information about equipment">More information about equipment</a>
+* <a href="#Adding FIVE Ultrasonic sensors US-015">Adding FIVE Ultrasonic sensors US-015</a>
+* <a href="#Checking the abilities to stop before the possible collisions with obstacles">Checking the abilities to stop before the possible collisions with obstacles</a>
+* <a href="#Adding TEN Ultrasonic sensors HC-SR04">Adding TEN Ultrasonic sensors HC-SR04</a>
+* <a href="#Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
+* <a href="#Checking the abilities to overcome obstacles">Checking the abilities to overcome obstacles</a>
+* <a href="#Adding Gyroscope">Adding Gyroscope</a>
+* <a href="#Adding Lidar Sensor">Adding Lidar Sensor</a>
+* <a href="#Adding Camera">Adding Camera</a>
 
 ### <a name="Introduction">Introduction</a>
 Explaining the main goals of the Project
 <br/>https://www.youtube.com/watch?v=srEd8KEh2uo
 <br>[![Main goals of the Project](https://img.youtube.com/vi/srEd8KEh2uo/0.jpg)](https://www.youtube.com/watch?v=srEd8KEh2uo)
 
-### Connecting DC Motors
+### <a name="Connecting DC Motors">Connecting DC Motors</a>
 Connecting and checking the High Pass Six Wheel Base - HPSWB - for simple commands to move
 <br/>https://www.youtube.com/watch?v=Ux8xrQHnlzI
 <br>[![Connecting_DC_Motors](https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg)](https://www.youtube.com/watch?v=Ux8xrQHnlzI)
 
-### More information about equipment
+### <a name="More information about equipment">More information about equipment</a>
 General view of the Motor Shield L298P is shown below on the figure
 ![L298P](images/L298P.jpg)
 
@@ -60,7 +70,7 @@ General view of the Motor Shield L298P is shown below on the figure
 <br/>Equations for Ultrasonic Sensors, explaining how they work
 <br/>![Equasions_for_Ultrasonic_Sensor](images/Equasions_for_Ultrasonic_Sensor.png)
 
-### Adding FIVE Ultrasonic sensors US-015
+### <a name="Adding FIVE Ultrasonic sensors US-015">Adding FIVE Ultrasonic sensors US-015</a>
 Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from the front
 ![Front](images/SWB_with_Ultrasonic_Sensors_Front.jpg)
@@ -77,60 +87,37 @@ Checking the environment around with Ultrasonic Sensors US-015
 ### This figure shows the results of Neural Network Knowledge Base
 ![NNKB](images/Results_of_the_Neural_Network.png)
 
-### Checking the abilities to stop before the possible collisions with obstacles
+### <a name="Checking the abilities to stop before the possible collisions with obstacles">Checking the abilities to stop before the possible collisions with obstacles</a>
 With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collisions
 <br/>https://www.youtube.com/watch?v=QVCCuo-QOwA
 <br>[![Avoid_Collision](https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg)](https://www.youtube.com/watch?v=QVCCuo-QOwA)
 
-### Adding TEN Ultrasonic sensors HC-SR04
+### <a name="Adding TEN Ultrasonic sensors HC-SR04">Adding TEN Ultrasonic sensors HC-SR04</a>
 Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 <br/>HPSWB - view from the front
 ![Front](images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg)
 
-### Connecting two Arduino Mega together
+### <a name="Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
 The way how to connect Master and Slave Arduino Mega together through Serial Port
 <br/>![Two_Arduino_Mega](images/2ArduinoMega2560.png)
 
-### Checking the abilities to overcome obstacles
+### <a name="Checking the abilities to overcome obstacles">Checking the abilities to overcome obstacles</a>
 Implementing and testing Algorithms for HPSWB
 <br/>https://www.youtube.com/watch?v=rjMo-d7WrMY
 <br>[![Overcoming_Obstacle](https://img.youtube.com/vi/rjMo-d7WrMY/0.jpg)](https://www.youtube.com/watch?v=rjMo-d7WrMY)
 
-### Adding Gyroscope
+### <a name="Adding Gyroscope">Adding Gyroscope</a>
 Adding Gyroscope in order to rotate HPSWB precisely to a needed degree regardless of battery charge
 _Soon_
 
-### Creating program in Matlab
-Using Matlab to build the Map around the Mobile Robot with the information from Ultrasonic Sensors
-_Soon_
-
-### Creating the Mobile Application Arduino-Android
-Application to control the HPSWB via phone
-_Soon_
-
-### Adding Laser Sensors
-Another type of Sensors to check the environment
-_Soon_
-
-### Adding Lidar Sensor
+### <a name="Adding Lidar Sensor">Adding Lidar Sensor</a>
 Checking the environment with Lidar Sensor
 _Soon_
 
-### Adding Camera
+### <a name="Adding Camera">Adding Camera</a>
 Working with Computer Vision
 _Soon_
 
-### Implementing Algorithms for Obstacle Overcoming
-Working with Algorithms
-_Soon_
-
-### Implementing Machine Learning
-Working with Machine Learning
-_Soon_
-
-### Implementing Neuro Networks
-Working with Neuro Networks
-_Soon_
 
 ## MIT License
 ## Copyright (c) 2017-2018 Valentyn N Sichkar
