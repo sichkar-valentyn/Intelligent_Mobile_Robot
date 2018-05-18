@@ -7,7 +7,7 @@ Intelligent Navigation System of Mobile Robot.
 ## Description
 <br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, DC Motors, Ultrasonic Sensors, Gyroscope, Laser Sensors, Cameras, Lidar Sensor, Bluetooth Module, Batteries, Six Wheel High Pass Base with Active Suspension.
 <br/><b>Software</b> - C# via Visual Studio, Python, Arduino IDE, Android SDK, Matlab.
-<br/><b>Develop</b> - Algorithms for Overcoming Obstacles, Algorithms for Localization, Algorithms for Mapping, SLAM Algorithms.
+<br/><b>Developmet</b> - Algorithms for Overcoming Obstacles, Algorithms for Localization, Algorithms for Mapping, SLAM Algorithms.
 
 The investigation of Reinforcement Learning for the tasks of shortest path planning is put in separate repository and is available here: https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python
 
