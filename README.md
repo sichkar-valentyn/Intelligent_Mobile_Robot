@@ -118,7 +118,6 @@ _Soon_
 Working with Computer Vision
 _Soon_
 
-
 ## MIT License
 ## Copyright (c) 2017-2018 Valentyn N Sichkar
 ## github.com/sichkar-valentyn
