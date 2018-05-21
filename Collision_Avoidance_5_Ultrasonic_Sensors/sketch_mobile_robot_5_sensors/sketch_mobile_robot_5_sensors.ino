@@ -9,7 +9,6 @@
 // [1] Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot (date of access: XX.XX.XXXX)
 
 
-
 // Variables for Trig and Echo of Ultrasonic Sensors
 int trigPin_1 = 17;
 int echoPin_1 = 16;
