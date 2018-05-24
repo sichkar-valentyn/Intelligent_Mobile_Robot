@@ -108,15 +108,15 @@ Implementing and testing Algorithms for HPSWB
 
 ### <a name="Adding Gyroscope">Adding Gyroscope</a>
 Adding Gyroscope in order to rotate HPSWB precisely to a needed degree regardless of battery charge
-<br/>_ Coming soon_
+<br/>_Coming soon_
 
 ### <a name="Adding Lidar Sensor">Adding Lidar Sensor</a>
 Checking the environment with Lidar Sensor
-<br/>_ Coming soon_
+<br/>_Coming soon_
 
 ### <a name="Adding Camera">Adding Camera</a>
 Working with Computer Vision
-<br/>_ Coming soon_
+<br/>_Coming soon_
 
 ## MIT License
 ## Copyright (c) 2017-2018 Valentyn N Sichkar
