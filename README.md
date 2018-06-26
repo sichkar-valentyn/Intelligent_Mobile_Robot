@@ -97,6 +97,8 @@ Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 <br/>HPSWB - view from the front
 ![Front](images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg)
 
+<img src="images/User_interface.gif" alt="User interface with ten ultrasonic sensors">
+
 ### <a name="Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
 The way how to connect Master and Slave Arduino Mega together through Serial Port
 <br/>![Two_Arduino_Mega](images/2ArduinoMega2560.png)
@@ -105,6 +107,8 @@ The way how to connect Master and Slave Arduino Mega together through Serial Por
 Implementing and testing Algorithms for HPSWB
 <br/>https://www.youtube.com/watch?v=rjMo-d7WrMY
 <br>[![Overcoming_Obstacle](https://img.youtube.com/vi/rjMo-d7WrMY/0.jpg)](https://www.youtube.com/watch?v=rjMo-d7WrMY)
+
+<img src="images/Obstacle_overcoming.gif" alt="Obstacle overcoming">
 
 ### <a name="Adding Gyroscope">Adding Gyroscope</a>
 Adding Gyroscope in order to rotate HPSWB precisely to a needed degree regardless of battery charge
