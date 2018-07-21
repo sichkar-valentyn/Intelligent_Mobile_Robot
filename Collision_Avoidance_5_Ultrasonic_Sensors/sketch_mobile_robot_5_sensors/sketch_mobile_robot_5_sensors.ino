@@ -6,7 +6,7 @@
 // Copyright (c) 2018 Valentyn N Sichkar
 // github.com/sichkar-valentyn
 // Reference to:
-// Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform. DOI: 10.5281/zenodo.1317907
+// Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform. DOI: 10.5281/zenodo.1317906
 
 
 // Variables for Trig and Echo of Ultrasonic Sensors
