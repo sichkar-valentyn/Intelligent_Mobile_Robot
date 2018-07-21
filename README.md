@@ -1,9 +1,9 @@
 # Intelligent Mobile Robot
 Intelligent Navigation System of Mobile Robot.
-<br/>![DOI](https://zenodo.org/badge/119162300.svg)
+<br/>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1317906.svg)](https://doi.org/10.5281/zenodo.1317906)
 
 ### Reference to:
-Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform. DOI: 10.5281/zenodo.1317907
+Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform. DOI: 10.5281/zenodo.1317906
 
 ## Description
 <br/><b>Hardware</b> - Arduino Mega, Motor Shield L298P, DC Motors, Ultrasonic Sensors, Gyroscope, Laser Sensors, Cameras, Lidar Sensor, Bluetooth Module, Batteries, Six Wheel High Pass Base with Active Suspension.
@@ -129,4 +129,4 @@ Working with Computer Vision
 ### Copyright (c) 2017-2018 Valentyn N Sichkar
 ### github.com/sichkar-valentyn
 ### Reference to:
-Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform. DOI: 10.5281/zenodo.1317907
+Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform. DOI: 10.5281/zenodo.1317906
