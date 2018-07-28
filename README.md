@@ -20,7 +20,7 @@ Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub plat
 <br/><b>Developmet</b> - Algorithms for Overcoming Obstacles, Algorithms for Localization, Algorithms for Mapping, SLAM Algorithms.
 
 ## Content
-* <a href="#Introduction">Introduction</a>
+* <a href="#Introduction">Introduction</a> 
 * <a href="#Connecting DC Motors">Connecting DC Motors</a>
 * <a href="#More information about equipment">More information about equipment</a>
 * <a href="#Adding FIVE Ultrasonic sensors US-015">Adding FIVE Ultrasonic sensors US-015</a>
