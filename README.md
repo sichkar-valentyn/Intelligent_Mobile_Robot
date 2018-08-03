@@ -28,9 +28,6 @@ Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub plat
 * <a href="#Adding TEN Ultrasonic sensors HC-SR04">Adding TEN Ultrasonic sensors HC-SR04</a>
 * <a href="#Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
 * <a href="#Checking the abilities to overcome obstacles">Checking the abilities to overcome obstacles</a>
-* <a href="#Adding Gyroscope">Adding Gyroscope</a>
-* <a href="#Adding Lidar Sensor">Adding Lidar Sensor</a>
-* <a href="#Adding Camera">Adding Camera</a>
 
 ### <a name="Introduction">Introduction</a>
 Explaining the main goals of the Project
@@ -114,22 +111,10 @@ Implementing and testing Algorithms for HPSWB
 
 <img src="images/Obstacle_overcoming.gif" alt="Obstacle overcoming">
 
-### <a name="Adding Gyroscope">Adding Gyroscope</a>
-Adding Gyroscope in order to rotate HPSWB precisely to a needed degree regardless of battery charge
-<br/>_Coming soon_
-
-### <a name="Adding Lidar Sensor">Adding Lidar Sensor</a>
-Checking the environment with Lidar Sensor
-<br/>_Coming soon_
-
-### <a name="Adding Camera">Adding Camera</a>
-Working with Computer Vision
-<br/>_Coming soon_
-
 <br/>
 
 ### MIT License
-### Copyright (c) 2017-2018 Valentyn N Sichkar
+### Copyright (c) 2018 Valentyn N Sichkar
 ### github.com/sichkar-valentyn
 ### Reference to:
 Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub platform. DOI: 10.5281/zenodo.1317906
