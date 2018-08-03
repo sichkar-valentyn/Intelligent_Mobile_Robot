@@ -31,85 +31,85 @@ Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub plat
 
 ### <a name="Introduction">Introduction</a>
 Explaining the main goals of the Project
-<br/>https://www.youtube.com/watch?v=srEd8KEh2uo
-<br>[![Main goals of the Project](https://img.youtube.com/vi/srEd8KEh2uo/0.jpg)](https://www.youtube.com/watch?v=srEd8KEh2uo =400x400)
+<br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank">https://www.youtube.com/watch?v=srEd8KEh2uo</a>
+<br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank"><img src="https://img.youtube.com/vi/srEd8KEh2uo/0.jpg" alt="Main goals of the Project" width="500" /></a>
 
 ### <a name="Connecting DC Motors">Connecting DC Motors</a>
 Connecting and checking the High Pass Six Wheel Base - HPSWB - for simple commands to move
-<br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank">https://www.youtube.com/watch?v=srEd8KEh2uo</a>
-<br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank"><img src="https://img.youtube.com/vi/srEd8KEh2uo/0.jpg" alt="Main goals of the Project" width="400" /></a></p>
+<br /><a href="https://www.youtube.com/watch?v=Ux8xrQHnlzI" target="_blank">https://www.youtube.com/watch?v=Ux8xrQHnlzI</a>
+<br /><a href="https://www.youtube.com/watch?v=Ux8xrQHnlzI" target="_blank"><img src="https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg" alt="Connecting_DC_Motors" width="500" /></a>
 
 ### <a name="More information about equipment">More information about equipment</a>
 General view of the Motor Shield L298P is shown below on the figure
-![L298P](images/L298P.jpg)
+<br/><img src="/images/L298P.jpg" alt="L298P" width="500"/>
 
 <br/>The view from the top of Motor Shield L298P and showing the main connectors that are needed for the Project.
-<br/>![L298P_top_view](images/L298P_top_view.png)
+<br /><img src="/images/L298P_top_view.png" alt="L298P_top_view" width="500"/>
 
 <br/>General view of the DC Motor
-<br/>![DC_Motor](images/DC_Motors.png)
+<br /><img src="/images/DC_Motors.png" alt="DC_Motor" width="200"/>
 
 <br/>Connection DC Motors to the Shield
-<br/>![Connection_DC_Motors](images/DC_Motors_7.png)
+<br /><img src="/images/DC_Motors_7.png" alt="Connection_DC_Motors" width="500"/>
 
 <br/>General view of the Bluetooth Module HC-06
-<br/>![Bluetooth_Module_HC-06](images/Bluetooth_Module_HC-06.jpg)
+<br /><img src="/images/Bluetooth_Module_HC-06.jpg" alt="Bluetooth_Module_HC-06" width="200"/>
 
 <br/>Connection Bluetooth Module HC-06 to the Shield or Arduino
-<br/>![Connection_Bluetooth_Module](images/HC-06_Connectors.jpg)
+<br /><img src="/images/HC-06_Connectors.jpg" alt="Connection_Bluetooth_Module" width="500"/>
 
 <br/>More about equipment
 <br/>https://www.youtube.com/watch?v=6KQcZUehVFo
-<br>[![Equipment](https://img.youtube.com/vi/6KQcZUehVFo/0.jpg)](https://www.youtube.com/watch?v=6KQcZUehVFo)
+<br /><a href="https://www.youtube.com/watch?v=6KQcZUehVFo"><img src="https://img.youtube.com/vi/6KQcZUehVFo/0.jpg" alt="Equipment" width="500"/></a>
 
 <br/>General view of the Ultrasonic Sensor US-015
-<br/>![Ultrasonic_Sensor_US-015](images/General_View_of_US-015.jpg)
+<br /><img src="/images/General_View_of_US-015.jpg" alt="Ultrasonic_Sensor_US-015" width="200"/>
 
 <br/>Connection Ultrasonic Sensor US-015 (or HC-SR04) to the Arduino
-<br/>![Connection_Ultrasonic_Sensor](images/Connection_of_Ultrasonic_Sensor.png)
+<br /><img src="/images/Connection_of_Ultrasonic_Sensor.png" alt="Connection_Ultrasonic_Sensor" width="500" />
 
 <br/>Equations for Ultrasonic Sensors, explaining how they work
-<br/>![Equasions_for_Ultrasonic_Sensor](images/Equasions_for_Ultrasonic_Sensor.png)
+<br /><img src="/images/Equasions_for_Ultrasonic_Sensor.png" alt="Equasions_for_Ultrasonic_Sensor" width="500" />
 
 ### <a name="Adding FIVE Ultrasonic sensors US-015">Adding FIVE Ultrasonic sensors US-015</a>
 Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from the front
-![Front](images/SWB_with_Ultrasonic_Sensors_Front.jpg)
+<br/><img src="/images/SWB_with_Ultrasonic_Sensors_Front.jpg" alt="Front" width="500" />
 
 <br/>HPSWB with Ultrasonic Sensors - view from the back
-![Back](images/SWB_with_Ultrasonic_Sensors_Back.jpg)
+<br/><img src="/images/SWB_with_Ultrasonic_Sensors_Back.jpg" alt="Back" width="500" />
 
 <br/>HPSWB with Ultrasonic Sensors - view from one side
-![Side](images/SWB_with_Ultrasonic_Sensors_Side.jpg)
+<br/><img src="/images/SWB_with_Ultrasonic_Sensors_Side.jpg" alt="Side" width="500" />
 
 ### Figure below shows the results of working system in Real Time by SPARQL Querying of the Knowledge Base
-![SPARQL_Querying](images/SPARQL_Querying_of_KB.png)
+<br/><img src="/images/SPARQL_Querying_of_KB.png" alt="SPARQL_Querying" width="500" />
 
 ### This figure shows the results of Neural Network Knowledge Base
-![NNKB](images/Results_of_the_Neural_Network.png)
+<br/><img src="/images/Results_of_the_Neural_Network.png" alt="NNKB" width="500" />
 
 ### <a name="Checking the abilities to stop before the possible collisions with obstacles">Checking the abilities to stop before the possible collisions with obstacles</a>
 With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collisions
-<br/>https://www.youtube.com/watch?v=QVCCuo-QOwA
-<br>[![Avoid_Collision](https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg)](https://www.youtube.com/watch?v=QVCCuo-QOwA)
+<br /><a href="https://www.youtube.com/watch?v=QVCCuo-QOwA" target="_blank">https://www.youtube.com/watch?v=QVCCuo-QOwA</a>
+<br /><a href="https://www.youtube.com/watch?v=QVCCuo-QOwA" target="_blank"><img src="https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg" alt="Avoid_Collision" width="500" /></a></p>
 
 ### <a name="Adding TEN Ultrasonic sensors HC-SR04">Adding TEN Ultrasonic sensors HC-SR04</a>
 Checking the environment around with Ten Ultrasonic Sensors HC-SR04
-<br/>HPSWB - view from the front
-![Front](images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg)
+<br />HPSWB - view from the front
+<br /><img src="/images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg" alt="Front" width="500" /></p>
 
-<img src="images/User_interface.gif" alt="User interface with ten ultrasonic sensors">
+<img src="images/User_interface.gif" alt="User interface with ten ultrasonic sensors" width="500">
 
 ### <a name="Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
 The way how to connect Master and Slave Arduino Mega together through Serial Port
-<br/>![Two_Arduino_Mega](images/2ArduinoMega2560.png)
+<br /><img src="/images/2ArduinoMega2560.png" alt="Two_Arduino_Mega" width="500" />
 
 ### <a name="Checking the abilities to overcome obstacles">Checking the abilities to overcome obstacles</a>
 Implementing and testing Algorithms for HPSWB
-<br/>https://www.youtube.com/watch?v=rjMo-d7WrMY
-<br>[![Overcoming_Obstacle](https://img.youtube.com/vi/rjMo-d7WrMY/0.jpg)](https://www.youtube.com/watch?v=rjMo-d7WrMY)
+<br /><a href="https://www.youtube.com/watch?v=rjMo-d7WrMY" target="_blank">https://www.youtube.com/watch?v=rjMo-d7WrMY</a>
+<br /><a href="https://www.youtube.com/watch?v=rjMo-d7WrMY" target="_blank"><img src="https://img.youtube.com/vi/rjMo-d7WrMY/0.jpg" alt="Overcoming_Obstacle" width="500" /></a></p>
 
-<img src="images/Obstacle_overcoming.gif" alt="Obstacle overcoming">
+<img src="images/Obstacle_overcoming.gif" alt="Obstacle overcoming" width="500">
 
 <br/>
 
