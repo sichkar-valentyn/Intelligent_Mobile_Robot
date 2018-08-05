@@ -20,6 +20,13 @@ Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub plat
 <br/><b>Developmet</b> - Algorithms for Overcoming Obstacles, Algorithms for Localization, Algorithms for Mapping, SLAM Algorithms.
 
 ## Content
+Codes (it'll send you to appropriate folder):
+* [C# Windows Form Application](https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot/tree/master/Collision_Avoidance_5_Ultrasonic_Sensors/CS_5_ultrasonic_sensors)
+* [Arduino Sketch (based on  C/C++)](https://github.com/sichkar-valentyn/Intelligent_Mobile_Robot/tree/master/Collision_Avoidance_5_Ultrasonic_Sensors/sketch_mobile_robot_5_sensors)
+
+<br/>
+Experimental results (figures and tables on this page):
+
 * <a href="#Introduction">Introduction</a> 
 * <a href="#Connecting DC Motors">Connecting DC Motors</a>
 * <a href="#More information about equipment">More information about equipment</a>
