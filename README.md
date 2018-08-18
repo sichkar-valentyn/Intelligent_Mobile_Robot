@@ -14,6 +14,8 @@ Valentyn N Sichkar. Intelligent Navigation System of Mobile Robot // GitHub plat
 
 * The study of Semantic Representation of knowledge and querying of it through owl files with SPARQL is put in separate repository and is available here: https://github.com/sichkar-valentyn/System_programming_for_SPARQL_querying_with_interface_development_by_html_files
 
+* The study of Semantic Web languages OWL and RDF for Knowledge representation of Alarm-Warning System is put in separate repository and is available here: https://github.com/sichkar-valentyn/Knowledge_Base_Represented_by_Semantic_Web_Language
+
 * The study of Neural Networks for Computer Vision in autonomous vehicles and robotics is put in separate repository and is available here: https://github.com/sichkar-valentyn/Neural_Networks_for_Computer_Vision
 
 ## Description
@@ -38,15 +40,21 @@ Experimental results (figures and tables on this page):
 * <a href="#Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
 * <a href="#Checking the abilities to overcome obstacles">Checking the abilities to overcome obstacles</a>
 
+<br/>
+
 ### <a name="Introduction">Introduction</a>
 Explaining the main goals of the Project
 <br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank">https://www.youtube.com/watch?v=srEd8KEh2uo</a>
 <br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank"><img src="https://img.youtube.com/vi/srEd8KEh2uo/0.jpg" alt="Main goals of the Project" width="500" /></a>
 
+<br/>
+
 ### <a name="Connecting DC Motors">Connecting DC Motors</a>
 Connecting and checking the High Pass Six Wheel Base - HPSWB - for simple commands to move
 <br /><a href="https://www.youtube.com/watch?v=Ux8xrQHnlzI" target="_blank">https://www.youtube.com/watch?v=Ux8xrQHnlzI</a>
 <br /><a href="https://www.youtube.com/watch?v=Ux8xrQHnlzI" target="_blank"><img src="https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg" alt="Connecting_DC_Motors" width="500" /></a>
+
+<br/>
 
 ### <a name="More information about equipment">More information about equipment</a>
 General view of the Motor Shield L298P is shown below on the figure
@@ -80,6 +88,8 @@ General view of the Motor Shield L298P is shown below on the figure
 <br/>Equations for Ultrasonic Sensors, explaining how they work
 <br /><img src="/images/Equasions_for_Ultrasonic_Sensor.png" alt="Equasions_for_Ultrasonic_Sensor" width="500" />
 
+<br/>
+
 ### <a name="Adding FIVE Ultrasonic sensors US-015">Adding FIVE Ultrasonic sensors US-015</a>
 Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from the front
@@ -91,16 +101,24 @@ Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from one side
 <br/><img src="/images/SWB_with_Ultrasonic_Sensors_Side.jpg" alt="Side" width="500" />
 
+<br/>
+
 ### Figure below shows the results of working system in Real Time by SPARQL Querying of the Knowledge Base
 <br/><img src="/images/SPARQL_Querying_of_KB.png" alt="SPARQL_Querying" width="500" />
 
+<br/>
+
 ### This figure shows the results of Neural Network Knowledge Base
 <br/><img src="/images/Results_of_the_Neural_Network.png" alt="NNKB" width="500" />
+
+<br/>
 
 ### <a name="Checking the abilities to stop before the possible collisions with obstacles">Checking the abilities to stop before the possible collisions with obstacles</a>
 With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collisions
 <br /><a href="https://www.youtube.com/watch?v=QVCCuo-QOwA" target="_blank">https://www.youtube.com/watch?v=QVCCuo-QOwA</a>
 <br /><a href="https://www.youtube.com/watch?v=QVCCuo-QOwA" target="_blank"><img src="https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg" alt="Avoid_Collision" width="500" /></a></p>
+
+<br/>
 
 ### <a name="Adding TEN Ultrasonic sensors HC-SR04">Adding TEN Ultrasonic sensors HC-SR04</a>
 Checking the environment around with Ten Ultrasonic Sensors HC-SR04
@@ -109,9 +127,13 @@ Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 
 <img src="images/User_interface.gif" alt="User interface with ten ultrasonic sensors" width="500">
 
+<br/>
+
 ### <a name="Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
 The way how to connect Master and Slave Arduino Mega together through Serial Port
 <br /><img src="/images/2ArduinoMega2560.png" alt="Two_Arduino_Mega" width="500" />
+
+<br/>
 
 ### <a name="Checking the abilities to overcome obstacles">Checking the abilities to overcome obstacles</a>
 Implementing and testing Algorithms for HPSWB
