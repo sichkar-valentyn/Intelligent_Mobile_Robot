@@ -31,14 +31,14 @@ Codes (it'll send you to appropriate folder):
 <br/>
 Experimental results (figures and tables on this page):
 
-* <a href="#Introduction">Introduction</a> 
-* <a href="#Connecting DC Motors">Connecting DC Motors</a>
-* <a href="#More information about equipment">More information about equipment</a>
-* <a href="#Adding FIVE Ultrasonic sensors US-015">Adding FIVE Ultrasonic sensors US-015</a>
-* <a href="#Checking the abilities to stop before the possible collisions with obstacles">Checking the abilities to stop before the possible collisions with obstacles</a>
-* <a href="#Adding TEN Ultrasonic sensors HC-SR04">Adding TEN Ultrasonic sensors HC-SR04</a>
-* <a href="#Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
-* <a href="#Checking the abilities to overcome obstacles">Checking the abilities to overcome obstacles</a>
+* [Introduction](#introduction)
+* [Connecting DC Motors](#connecting-dc-motors)
+* [More information about equipment](#more-information-about-equipment)
+* [Adding FIVE Ultrasonic sensors US-015](#adding-five-ultrasonic-sensors-us-015)
+* [Checking the abilities to stop before the possible collisions with obstacles](#checking-the-abilities-to-stop-before-the-possible-collisions-with-obstacles)
+* [Adding TEN Ultrasonic sensors HC-SR04](#adding-ten-ultrasonic-sensors-hc-sr04)
+* [Connecting two Arduino Mega together](#connecting-two-arduino-mega-together)
+* [Checking the abilities to overcome obstacles](#checking-the-abilities-to-overcome-obstacles)
 
 <br/>
 
