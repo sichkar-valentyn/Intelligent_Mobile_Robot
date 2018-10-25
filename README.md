@@ -42,21 +42,21 @@ Experimental results (figures and tables on this page):
 
 <br/>
 
-### <a name="Introduction">Introduction</a>
+### <a id="introduction">Introduction</a>
 Explaining the main goals of the Project
 <br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank">https://www.youtube.com/watch?v=srEd8KEh2uo</a>
 <br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank"><img src="https://img.youtube.com/vi/srEd8KEh2uo/0.jpg" alt="Main goals of the Project" width="500" /></a>
 
 <br/>
 
-### <a name="Connecting DC Motors">Connecting DC Motors</a>
+### <a id="connecting-dc-motors">Connecting DC Motors</a>
 Connecting and checking the High Pass Six Wheel Base - HPSWB - for simple commands to move
 <br /><a href="https://www.youtube.com/watch?v=Ux8xrQHnlzI" target="_blank">https://www.youtube.com/watch?v=Ux8xrQHnlzI</a>
 <br /><a href="https://www.youtube.com/watch?v=Ux8xrQHnlzI" target="_blank"><img src="https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg" alt="Connecting_DC_Motors" width="500" /></a>
 
 <br/>
 
-### <a name="More information about equipment">More information about equipment</a>
+### <a id="more-information-about-equipment">More information about equipment</a>
 General view of the Motor Shield L298P is shown below on the figure
 <br/><img src="/images/L298P.jpg" alt="L298P" width="500"/>
 
@@ -90,7 +90,7 @@ General view of the Motor Shield L298P is shown below on the figure
 
 <br/>
 
-### <a name="Adding FIVE Ultrasonic sensors US-015">Adding FIVE Ultrasonic sensors US-015</a>
+### <a id="adding-five-ultrasonic-sensors-us-015">Adding FIVE Ultrasonic sensors US-015</a>
 Checking the environment around with Ultrasonic Sensors US-015
 <br/>HPSWB with Ultrasonic Sensors - view from the front
 <br/><img src="/images/SWB_with_Ultrasonic_Sensors_Front.jpg" alt="Front" width="500" />
@@ -109,14 +109,14 @@ Checking the environment around with Ultrasonic Sensors US-015
 
 <br/>
 
-### <a name="Checking the abilities to stop before the possible collisions with obstacles">Checking the abilities to stop before the possible collisions with obstacles</a>
+### <a id="checking-the-abilities-to-stop-before-the-possible-collisions-with-obstacles">Checking the abilities to stop before the possible collisions with obstacles</a>
 With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collisions
 <br /><a href="https://www.youtube.com/watch?v=QVCCuo-QOwA" target="_blank">https://www.youtube.com/watch?v=QVCCuo-QOwA</a>
 <br /><a href="https://www.youtube.com/watch?v=QVCCuo-QOwA" target="_blank"><img src="https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg" alt="Avoid_Collision" width="500" /></a></p>
 
 <br/>
 
-### <a name="Adding TEN Ultrasonic sensors HC-SR04">Adding TEN Ultrasonic sensors HC-SR04</a>
+### <a id="adding-ten-ultrasonic-sensors-hc-sr04">Adding TEN Ultrasonic sensors HC-SR04</a>
 Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 <br />HPSWB - view from the front
 <br /><img src="/images/HPSWB_with_Ten_Ultrasonic_Sensors.jpg" alt="Front" width="500" /></p>
@@ -125,13 +125,13 @@ Checking the environment around with Ten Ultrasonic Sensors HC-SR04
 
 <br/>
 
-### <a name="Connecting two Arduino Mega together">Connecting two Arduino Mega together</a>
+### <a id="connecting-two-arduino-mega-together">Connecting two Arduino Mega together</a>
 The way how to connect Master and Slave Arduino Mega together through Serial Port
 <br /><img src="/images/2ArduinoMega2560.png" alt="Two_Arduino_Mega" width="500" />
 
 <br/>
 
-### <a name="Checking the abilities to overcome obstacles">Checking the abilities to overcome obstacles</a>
+### <a id="checking-the-abilities-to-overcome-obstacles">Checking the abilities to overcome obstacles</a>
 Implementing and testing Algorithms for HPSWB
 <br /><a href="https://www.youtube.com/watch?v=rjMo-d7WrMY" target="_blank">https://www.youtube.com/watch?v=rjMo-d7WrMY</a>
 <br /><a href="https://www.youtube.com/watch?v=rjMo-d7WrMY" target="_blank"><img src="https://img.youtube.com/vi/rjMo-d7WrMY/0.jpg" alt="Overcoming_Obstacle" width="500" /></a></p>
