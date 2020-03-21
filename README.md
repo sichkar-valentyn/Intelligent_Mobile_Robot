@@ -46,15 +46,11 @@ Experimental results (figures and tables on this page):
 
 ### <a id="introduction">Introduction</a>
 Explaining the main goals of the Project
-<br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank">https://www.youtube.com/watch?v=srEd8KEh2uo</a>
-<br /><a href="https://www.youtube.com/watch?v=srEd8KEh2uo" target="_blank"><img src="https://img.youtube.com/vi/srEd8KEh2uo/0.jpg" alt="Main goals of the Project" width="500" /></a>
 
 <br/>
 
 ### <a id="connecting-dc-motors">Connecting DC Motors</a>
 Connecting and checking the High Pass Six Wheel Base - HPSWB - for simple commands to move
-<br /><a href="https://www.youtube.com/watch?v=Ux8xrQHnlzI" target="_blank">https://www.youtube.com/watch?v=Ux8xrQHnlzI</a>
-<br /><a href="https://www.youtube.com/watch?v=Ux8xrQHnlzI" target="_blank"><img src="https://img.youtube.com/vi/Ux8xrQHnlzI/0.jpg" alt="Connecting_DC_Motors" width="500" /></a>
 
 <br/>
 
@@ -78,8 +74,6 @@ General view of the Motor Shield L298P is shown below on the figure
 <br /><img src="/images/HC-06_Connectors.jpg" alt="Connection_Bluetooth_Module" width="500"/>
 
 <br/>More about equipment
-<br/>https://www.youtube.com/watch?v=6KQcZUehVFo
-<br /><a href="https://www.youtube.com/watch?v=6KQcZUehVFo"><img src="https://img.youtube.com/vi/6KQcZUehVFo/0.jpg" alt="Equipment" width="500"/></a>
 
 <br/>General view of the Ultrasonic Sensor US-015
 <br /><img src="/images/General_View_of_US-015.jpg" alt="Ultrasonic_Sensor_US-015" width="200"/>
@@ -113,8 +107,6 @@ Checking the environment around with Ultrasonic Sensors US-015
 
 ### <a id="checking-the-abilities-to-stop-before-the-possible-collisions-with-obstacles">Checking the abilities to stop before the possible collisions with obstacles</a>
 With the help of Ultrasonic Sensors and seeing the obstacles to avoid the collisions
-<br /><a href="https://www.youtube.com/watch?v=QVCCuo-QOwA" target="_blank">https://www.youtube.com/watch?v=QVCCuo-QOwA</a>
-<br /><a href="https://www.youtube.com/watch?v=QVCCuo-QOwA" target="_blank"><img src="https://img.youtube.com/vi/QVCCuo-QOwA/0.jpg" alt="Avoid_Collision" width="500" /></a></p>
 
 <br/>
 
@@ -135,8 +127,6 @@ The way how to connect Master and Slave Arduino Mega together through Serial Por
 
 ### <a id="checking-the-abilities-to-overcome-obstacles">Checking the abilities to overcome obstacles</a>
 Implementing and testing Algorithms for HPSWB
-<br /><a href="https://www.youtube.com/watch?v=rjMo-d7WrMY" target="_blank">https://www.youtube.com/watch?v=rjMo-d7WrMY</a>
-<br /><a href="https://www.youtube.com/watch?v=rjMo-d7WrMY" target="_blank"><img src="https://img.youtube.com/vi/rjMo-d7WrMY/0.jpg" alt="Overcoming_Obstacle" width="500" /></a></p>
 
 <img src="images/Obstacle_overcoming.gif" alt="Obstacle overcoming" width="500">
 
